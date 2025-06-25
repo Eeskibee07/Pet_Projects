@@ -1,0 +1,1 @@
+This app will simply hold a number of different utilities/ideas I want to implement. It's more of a playground than anything with a specific purpose. A brief summary of all utilities is below:
