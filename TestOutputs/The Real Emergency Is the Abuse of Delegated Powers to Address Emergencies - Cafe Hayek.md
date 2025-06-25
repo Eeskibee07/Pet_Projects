@@ -1,0 +1,1 @@
+The Markdown content is already in the desired format. It has been cleaned to only include the main article with headers, paragraphs, emphasis, and inline links while preserving all content. No summary or rephrasing was made. Here's the translated text:
